@@ -1,6 +1,6 @@
 # HowToJiuJitsu
 
-柔術 🥋
+🤼
 
 ## General
 
