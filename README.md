@@ -10,9 +10,11 @@ Sharpen both sides, but make the dominant side lethal.
 
 Aim for a submission and then move towards it; do not roll without a submission in mind.
 
-## Feet vs
+## Attack
 
-### Feet
+### Feet vs
+
+#### Feet
 
 Arm drag
 
@@ -34,17 +36,17 @@ Body lock >> Thigh collapse
 
 Body lock >> Back take
 
-### Knee
+#### Knee
 
-Run over
+Smash
 
-### Butt
+#### Butt
 
-Side-to-side
+Side-to-side pass
 
-## Butt vs
+### Butt vs
 
-### Feet
+#### Feet
 
 Shin-to-shin
 
@@ -64,7 +66,7 @@ Reverse X guard >> Foot sweep
 
 Reverse X guard >> Pull stand >> Body lock
 
-### Knee
+#### Knee
 
 Arm drag
 
@@ -74,10 +76,26 @@ Guillotine head
 
 Guillotine head >> Guillotine head and arm
 
-Guillotine head >> Side-control 1-arm guillotine
+Guillotine >> Side-control 1-arm guillotine
 
-Guillotine head and arm >> Side-control 1-arm guillotine
-
-### Butt
+#### Butt
 
 50-50
+
+### Mount
+
+Back take
+
+### Back
+
+Rear neck choke
+
+## Defend
+
+Guillotine head >> Head rotation
+
+Guillotine head >> Drape choke
+
+Guillotine >> Hop side control
+
+Guillotine >> Shoulder roll >> Hop side control
