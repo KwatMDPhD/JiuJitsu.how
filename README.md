@@ -34,15 +34,13 @@ Body lock
 
 Body lock >> Thigh collapse
 
-Body lock >> Back take
-
-#### Knee
-
-Smash
+Body lock >> Back
 
 #### Butt
 
-Side-to-side pass
+Side-to-side
+
+Side-to-side >> Side
 
 ### Butt vs
 
@@ -70,21 +68,25 @@ Reverse X guard >> Pull stand >> Body lock
 
 Arm drag
 
-Arm drag >> Back take
+Arm drag >> Back
 
 Guillotine head
 
 Guillotine head >> Guillotine head and arm
 
-Guillotine >> Side-control 1-arm guillotine
+Guillotine >> Side 1-arm guillotine
 
-#### Butt
+### Side
 
-50-50
+Side >> Crane
+
+Crane >> North-South choke
+
+Side >> Back
 
 ### Mount
 
-Back take
+Back
 
 ### Back
 
@@ -92,10 +94,24 @@ Rear neck choke
 
 ## Defend
 
-Guillotine head >> Head rotation
+### Single leg
 
-Guillotine head >> Drape choke
+Guillotine
 
-Guillotine >> Hop side control
+Over hook
 
-Guillotine >> Shoulder roll >> Hop side control
+Over hook >> Uchimata
+
+Uchimata >> Guillotine
+
+### Guillotine head
+
+Head rotation
+
+Drape choke
+
+### Guillotine
+
+Hop side
+
+Shoulder roll >> Hop side
