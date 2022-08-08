@@ -1,9 +1,3 @@
-# HowToJiuJitsu
-
-🤼
-
-## General
-
 Learn new moves, but drill only moves in this list.
 
 Sharpen both sides, but make the dominant side lethal.
