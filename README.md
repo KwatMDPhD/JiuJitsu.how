@@ -109,3 +109,11 @@ Drape choke
 Hop side
 
 Shoulder roll >> Hop side
+
+## Links
+
+[Mantis guard, no gi](https://www.youtube.com/watch?v=HEL83OPpxDA)
+
+[Mantis guard, gi](https://www.youtube.com/watch?v=JGmMKGl31uE)
+
+[North-South choke, Marcelo](https://www.youtube.com/watch?v=VkI7wuhN2Ps)
