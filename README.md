@@ -2,7 +2,11 @@
 
 Aim for a submission and then move towards it.
 
+Use every body part (especially the head) as a hand.
+
 Align my head and spine to be stronger.
+
+Keep the spine off of the mat.
 
 Improve the angle.
 
@@ -14,7 +18,7 @@ Prioritize the moves here.
 
 Practice 80 and 20% with the dominant and the other sides, respectively.
 
-Practice exaggerating.
+Practice exaggerating, incrementally, and slowly.
 
 ## Feet vs Feet
 
@@ -24,49 +28,37 @@ Break the opponent's posture.
 
 Penetrate.
 
-## Feet vs Feet (bent)
+## Feet vs Feet (Bent)
 
-- Snap down >> [Guillotine]()
+- Snap Down >> Guillotine
 
-## Feet vs Feet (straight)
+## Feet vs Feet (Straight)
 
-### Collar Tie
+- Collar Tie (Widen my palm, grab the back of the opponent's head, and curl my arm.) >> Slide by >> Feet vs Feet (Back)
 
-Widen my palm, grab the back of the opponent's head, and curl my arm.
+- Arm Drag >> Feet vs Feet (Back)
 
-- Slide by >> [Feet vs Feet (back)]()
+- Single Leg >> Feet vs Feet (Back)
 
-### Arm drag
+- Single Leg >> Feet vs Back
 
-- [Feet vs Feet (back)]()
+- Single Leg >> Foot Sweep >> Feet vs Back
 
-### Single leg
+- Single Leg >> Knee Trip >> Feet vs Back
 
-[Feet vs Back]()
+## Feet vs Feet (Back)
 
-Foot sweep >> [Feet vs Back]()
+- Back Body Lock >> Thigh Collapse >> Back Pin
 
-Knee trip >> [Feet vs Back]()
-
-[Feet vs Feet (back)]()
-
-## Feet vs Feet (back)
-
-### Back Body Lock
-
-Thigh collapse >> [Back Pin]()
-
-Away leg >> [Back Pin]()
+- Back Body Lock >> Away Leg >> Back Pin
 
 ## Feet vs Butt
 
 Put the opponent's back on the ground.
 
-###
+- Push >> Feet vs Back
 
-Push >> [Feet vs Back]()
-
-Lift >> [Feet vs Back]()
+- Lift >> Feet vs Back
 
 ## Feet vs Back
 
@@ -78,29 +70,23 @@ Displace the opponent's feet.
 
 Move laterally.
 
-### Shin trap
+- Shin Trap (https://www.youtube.com/watch?v=d9tMyhNgec4) >> Knee on Belly >> Side Pin
 
-https://www.youtube.com/watch?v=d9tMyhNgec4
+- Knee Slice >> North-South Pin
 
-### Knee slice
+## Feet vs Turtle
 
-[North-South Pin]()
+- Nelson >> Back Pin
 
 ## Butt vs Feet
 
-###
-
-Shin-to-shin >> [X Guard]()
+- Shin-to-Shin >> X Guard
 
 ## Butt vs Knee
 
-###
+- Seated Arm Drag >> Back Pin
 
-- Butt arm drag >> [Back Pin]()
-
-### Guillotine
-
-TODO: find the video
+- Guillotine ()
 
 ## Back vs Feet
 
@@ -112,61 +98,37 @@ Step with the top foot.
 
 2+-on-1 to be sticky.
 
-###
+- Tripod Sweep (https://www.youtube.com/watch?v=iGhMeN3TUPM) >> Feet vs Back
 
-- Tripod sweep (https://www.youtube.com/watch?v=iGhMeN3TUPM) >> [Feet vs Back]()
+- De La Riva >> Caio-Terra Sweep (https://www.youtube.com/watch?v=ScaGahPWDn4) >> Feet vs Back
 
-### De la riva
+- De La Riva >> Mantis Guard (https://www.youtube.com/watch?v=HEL83OPpxDA, https://www.youtube.com/watch?v=JGmMKGl31uE) >> Chair Guard
 
-Caio-Terra sweep (https://www.youtube.com/watch?v=ScaGahPWDn4) >> [Feet vs Back]()
+- Reverse De La Riva >> Kiss of the Dragon (https://www.youtube.com/watch?v=Zy2HZcdsdOg) >> Back Pin
 
-[Mantis Guard]()
+- Reverse De La Riva >> Kiss of the Dragon (https://www.youtube.com/watch?v=9y21nM8jxW0) >> Feet vs Turtle
 
-### Mantis guard
+- X Guard >> Feet vs Back
 
-https://www.youtube.com/watch?v=HEL83OPpxDA
+- X Guard >> Reverse X Guard
 
-https://www.youtube.com/watch?v=JGmMKGl31uE
+- Reverse X Guard >> Reverse Tripod Sweep >> Feet vs Back
 
-### Reverse de la riva
+- Reverse X Guard >> Push Military Stand >> Feet vs Back
 
-[Kiss of the Dragon]()
+- Reverse X Guard >> Pull Military Stand >> Feet vs Turtle
 
-### Kiss of the Dragon
+- K Guard (https://www.youtube.com/watch?v=2b7bqY7iZBs)
 
-https://www.youtube.com/watch?v=Zy2HZcdsdOg
+## Side Pin
 
-https://www.youtube.com/watch?v=9y21nM8jxW0
+- Trap Arms >> North-South Pin
 
-### K Guard
-
-https://www.youtube.com/watch?v=2b7bqY7iZBs
-
-### X Guard
-
-[Feet vs Back]()
-
-[Reverse X Guard]()
-
-### Reverse X Guard
-
-[Feet vs Back]()
-
-Reverse tripod sweep >> [Feet vs Back]()
-
-Pull military stand >> [Feet vs Back]()
-
-## Side pin
-
-###
-
-- Trap arm >> [North-South Pin]()
-
-- Crane >> [North-South Pin]()
+- Crane >> North-South Pin
 
 ## North-South Pin
 
-- North-South choke (https://www.youtube.com/watch?v=VkI7wuhN2Ps)
+- North-South Choke (https://www.youtube.com/watch?v=VkI7wuhN2Ps)
 
 ## Mount Pin
 
@@ -174,16 +136,12 @@ https://www.youtube.com/watch?v=ma1Y9ZnY69g
 
 Use only legs.
 
-###
+- Head-and-Arm choke
 
-- Head-and-arm choke
-
-## Back pin
-
-Stay higher than the opponent.
+## Back Pin
 
 Ear-to-ear.
 
-###
+Stay higher than the opponent.
 
-- Rear-naked choke
+- Rear-Naked Choke
