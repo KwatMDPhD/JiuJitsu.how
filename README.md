@@ -30,35 +30,43 @@ Penetrate.
 
 ## Feet vs Feet (straight)
 
-- Collar tie (widen my palm, grab the back of the opponent's head, and curl my arm)
+### Collar Tie
 
-- Collar tie >> Slide by >> [Feet vs Feet (back)]()
+Widen my palm, grab the back of the opponent's head, and curl my arm.
 
-- Collar tie >> [Arm Drag]()
+- Slide by >> [Feet vs Feet (back)]()
 
-- Arm Drag >> [Feet vs Feet (back)]()
+### Arm drag
 
-- Single leg >> [Feet vs Back]()
+- [Feet vs Feet (back)]()
 
-- Single leg >> Foot sweep >> [Feet vs Back]()
+### Single leg
 
-- Single leg >> Knee trip >> [Feet vs Back]()
+[Feet vs Back]()
 
-- Single leg >> [Feet vs Feet (back)]()
+Foot sweep >> [Feet vs Back]()
+
+Knee trip >> [Feet vs Back]()
+
+[Feet vs Feet (back)]()
 
 ## Feet vs Feet (back)
 
-- Back body lock >> Thigh collapse >> [Back Pin]()
+### Back Body Lock
 
-- Back body lock >> Away leg >> [Back Pin]()
+Thigh collapse >> [Back Pin]()
+
+Away leg >> [Back Pin]()
 
 ## Feet vs Butt
 
 Put the opponent's back on the ground.
 
-- Push >> [Feet vs Back]()
+###
 
-- Lift >> [Feet vs Back]()
+Push >> [Feet vs Back]()
+
+Lift >> [Feet vs Back]()
 
 ## Feet vs Back
 
@@ -70,19 +78,29 @@ Displace the opponent's feet.
 
 Move laterally.
 
-- Shin trap (https://www.youtube.com/watch?v=d9tMyhNgec4)
+### Shin trap
 
-- Knee slice >> [North-South Pin]()
+https://www.youtube.com/watch?v=d9tMyhNgec4
+
+### Knee slice
+
+[North-South Pin]()
 
 ## Butt vs Feet
 
-- Shin-to-shin >> [X Guard]()
+###
+
+Shin-to-shin >> [X Guard]()
 
 ## Butt vs Knee
 
+###
+
 - Butt arm drag >> [Back Pin]()
 
-- [Guillotine]()
+### Guillotine
+
+TODO: find the video
 
 ## Back vs Feet
 
@@ -94,50 +112,78 @@ Step with the top foot.
 
 2+-on-1 to be sticky.
 
+###
+
 - Tripod sweep (https://www.youtube.com/watch?v=iGhMeN3TUPM) >> [Feet vs Back]()
 
-- De la riva >> Caio-Terra sweep (https://www.youtube.com/watch?v=ScaGahPWDn4) >> [Feet vs Back]()
+### De la riva
 
-- De la riva >> [Mantis Guard]()
+Caio-Terra sweep (https://www.youtube.com/watch?v=ScaGahPWDn4) >> [Feet vs Back]()
 
-- Mantis guard (https://www.youtube.com/watch?v=HEL83OPpxDA, https://www.youtube.com/watch?v=JGmMKGl31uE)
+[Mantis Guard]()
 
-- Reverse de la riva >> [Kiss of the Dragon]()
+### Mantis guard
 
-- Kiss of the dragon (https://www.youtube.com/watch?v=Zy2HZcdsdOg, https://www.youtube.com/watch?v=9y21nM8jxW0)
+https://www.youtube.com/watch?v=HEL83OPpxDA
 
-- K guard (https://www.youtube.com/watch?v=2b7bqY7iZBs)
+https://www.youtube.com/watch?v=JGmMKGl31uE
 
-- X guard >> [Feet vs Back]()
+### Reverse de la riva
 
-- X guard >> [Reverse X Guard]()
+[Kiss of the Dragon]()
 
-- Reverse X guard >> [Feet vs Back]()
+### Kiss of the Dragon
 
-- Reverse X guard >> Reverse tripod sweep >> [Feet vs Back]()
+https://www.youtube.com/watch?v=Zy2HZcdsdOg
 
-- Reverse X guard >> Pull military stand >> [Feet vs Back]()
+https://www.youtube.com/watch?v=9y21nM8jxW0
 
-### Side pin
+### K Guard
+
+https://www.youtube.com/watch?v=2b7bqY7iZBs
+
+### X Guard
+
+[Feet vs Back]()
+
+[Reverse X Guard]()
+
+### Reverse X Guard
+
+[Feet vs Back]()
+
+Reverse tripod sweep >> [Feet vs Back]()
+
+Pull military stand >> [Feet vs Back]()
+
+## Side pin
+
+###
+
+- Trap arm >> [North-South Pin]()
 
 - Crane >> [North-South Pin]()
 
-### North-South pin
+## North-South Pin
 
 - North-South choke (https://www.youtube.com/watch?v=VkI7wuhN2Ps)
 
-### Mount pin
+## Mount Pin
 
 https://www.youtube.com/watch?v=ma1Y9ZnY69g
 
 Use only legs.
 
+###
+
 - Head-and-arm choke
 
-### Back pin
+## Back pin
 
 Stay higher than the opponent.
 
 Ear-to-ear.
+
+###
 
 - Rear-naked choke
