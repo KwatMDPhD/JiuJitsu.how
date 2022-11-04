@@ -100,7 +100,7 @@ Step with the top foot.
 
 - Tripod Sweep (https://www.youtube.com/watch?v=iGhMeN3TUPM) >> Feet vs Back
 
-- De La Riva (https://www.youtube.com/watch?v=lWv_jyFdpxU, )
+- De La Riva (https://www.youtube.com/watch?v=lWv_jyFdpxU, https://www.youtube.com/watch?v=HEL83OPpxDA, https://www.youtube.com/watch?v=dCiY-lvUXxA)
 
 - De La Riva >> Caio-Terra Sweep (https://www.youtube.com/watch?v=ScaGahPWDn4) >> Feet vs Back
 
