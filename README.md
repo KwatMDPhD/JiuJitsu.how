@@ -100,6 +100,8 @@ Step with the top foot.
 
 - Tripod Sweep (https://www.youtube.com/watch?v=iGhMeN3TUPM) >> Feet vs Back
 
+- De La Riva (https://www.youtube.com/watch?v=lWv_jyFdpxU, )
+
 - De La Riva >> Caio-Terra Sweep (https://www.youtube.com/watch?v=ScaGahPWDn4) >> Feet vs Back
 
 - De La Riva >> Mantis Guard (https://www.youtube.com/watch?v=HEL83OPpxDA, https://www.youtube.com/watch?v=JGmMKGl31uE) >> Chair Guard
