@@ -108,6 +108,8 @@ Contract my upper body. Clamp with my calf. Close my proximal elbow. Use my dist
 
 - De La Riva >> Mantis Guard (https://www.youtube.com/watch?v=HEL83OPpxDA, https://www.youtube.com/watch?v=JGmMKGl31uE) >> Chair Guard
 
+- Berimbolo (https://www.youtube.com/watch?v=S5NNUA8uaYY, https://www.youtube.com/watch?v=jZkQ0-KUr3k, https://www.youtube.com/watch?v=XIdGS3OyXlE, https://www.youtube.com/watch?v=sZ5mfe4DGOE)
+
 - Reverse De La Riva >> Kiss of the Dragon (https://www.youtube.com/watch?v=Zy2HZcdsdOg) >> Back Pin
 
 - Reverse De La Riva >> Kiss of the Dragon (https://www.youtube.com/watch?v=9y21nM8jxW0) >> Feet vs Turtle
@@ -139,6 +141,8 @@ Contract my upper body. Clamp with my calf. Close my proximal elbow. Use my dist
 https://www.youtube.com/watch?v=ma1Y9ZnY69g
 
 Use only legs.
+
+The Head and Arm Choke (https://www.youtube.com/watch?v=wrZCRBlAB3Y)
 
 - Head-and-Arm choke
 
