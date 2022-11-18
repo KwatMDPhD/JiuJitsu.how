@@ -104,6 +104,12 @@ Step with the top foot.
 
 Contract my upper body. Clamp with my calf. Close my proximal elbow. Use my distal hand. When the hooks come off, push and pull with my proximal hamstring and hands, respectively. Put the distal foot on the hip to bait the foot to be pressed down the opponents butt. Shrimp far and away.
 
+- De La Riva >> Push, up, single leg
+
+- De La Riva >> Kick butt >> Knee vs Back
+
+- De La Riva >> Kiss of the dragon
+
 - De La Riva >> Caio-Terra Sweep (https://www.youtube.com/watch?v=ScaGahPWDn4) >> Feet vs Back
 
 - De La Riva >> Mantis Guard (https://www.youtube.com/watch?v=HEL83OPpxDA, https://www.youtube.com/watch?v=JGmMKGl31uE) >> Chair Guard
